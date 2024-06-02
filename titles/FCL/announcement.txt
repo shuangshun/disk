@@ -1,0 +1,29 @@
+{
+  "id": 2,
+  "significant": true,
+  "outdated": false,
+  "minVersion": -1,
+  "maxVersion": -1,
+  "specificLang": [],
+  "title": [
+    {
+      "lang": "en",
+      "text": "关于基岩版触控手势"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "关于基岩版触控手势"
+    }
+  ],
+  "date": "2024.03.05",
+  "content": [
+    {
+      "lang": "en",
+      "text": "基岩版触控手势会造成cpu占用达到100%，可以在启动器设置里关闭。"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "基岩版触控手势会造成cpu占用达到100%，可以在启动器设置里关闭。"
+    }
+  ]
+}
